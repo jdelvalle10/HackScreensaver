@@ -48,7 +48,7 @@ The layout also:
 ### Option 1: guided installer (recommended)
 
 ```bash
-git clone https://github.com/<your-username>/hackscreen.git
+git clone https://github.com/jdelvalle/hackscreensaver.git
 cd hackscreen
 python3 install.py
 ```
